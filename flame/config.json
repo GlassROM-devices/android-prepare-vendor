@@ -67,7 +67,6 @@
         "product/priv-app/OBDM_Permissions/OBDM_Permissions.apk",
         "product/priv-app/OemDmTrigger/OemDmTrigger.apk",
         "product/priv-app/OsloFeedback/OsloFeedback.apk",
-        "product/priv-app/RefreshRateControl/RefreshRateControl.apk",
         "product/priv-app/RilConfigService/RilConfigService.apk",
         "product/priv-app/SCONE/SCONE.apk",
         "product/priv-app/SCONE/lib/arm64/libborders_scone_leveldb_jni.so",
